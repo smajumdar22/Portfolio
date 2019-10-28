@@ -51,15 +51,15 @@ Finish time: __9:57 pm___
 Actual time needed to complete: _1.17 hr____
 
 
-Number and name of feature: ________________________________
+Number and name of feature: Feature #2: Modify the contents
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 1 hr
 
-Start time: _____
+Start time: 10:00 pm
 
-Finish time: _____
+Finish time: _10:50pm____
 
-Actual time needed to complete: _____
+Actual time needed to complete: _50 mins____
 
 
 Number and name of feature: ________________________________
