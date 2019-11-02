@@ -38,7 +38,7 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
-
+        Videos - https://www.pexels.com/video/person-typing-1395943/
 
 
 Number and name of feature: Feature #1: Refactor the CSS
