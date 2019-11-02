@@ -62,15 +62,15 @@ Finish time: _10:50pm____
 Actual time needed to complete: _50 mins____
 
 
-Number and name of feature: ________________________________
+Number and name of feature: ______Add Functionality__________________________
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: __2_
 
-Start time: _____
+Start time: __5:00 pm___
 
-Finish time: _____
+Finish time: _7:00 pm___
 
-Actual time needed to complete: _____
+Actual time needed to complete: __6___
 
 
 Number and name of feature: ________________________________

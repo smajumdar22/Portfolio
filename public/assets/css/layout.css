@@ -74,7 +74,7 @@ br.clear {
 
 
 
-    @media screen and (min-width: 961px) and (max-width: 1880px) {
+    @media screen and (min-width: 736px) and (max-width: 1880px) {
 
         .container {
             width: 1200px;
@@ -98,7 +98,7 @@ br.clear {
 
     }
 
-    @media screen and (max-width: 960px) {
+    @media screen and (max-width: 736px) {
 
         .container {
             width: 100%;
@@ -116,7 +116,7 @@ br.clear {
 
 
 
-    @media screen and (min-width: 961px) and (max-width: 1880px) {
+    @media screen and (min-width: 736px) and (max-width: 1880px) {
 
         .row {
             display: flex;
@@ -1585,7 +1585,50 @@ section, article {
 
 					#nav ul li a.active span:before {
 						color: #e27689;
-					}
+                    }
+                    /*MEDIA QUERY*/
+/* @media only screen and (max-width : 640px) {
+
+	header {
+
+		position: absolute;
+
+	}
+
+	#nav {
+
+		display:inline-block;
+
+	}
+
+	nav ul, nav:active ul { 
+
+		display: none;
+		position: absolute;
+		padding: 20px;
+		background: #fff;
+		border: 5px solid #444;
+		right: 20px;
+		top: 60px;
+		width: 50%;
+		border-radius: 4px 0 4px 4px;
+
+	}
+
+	nav li {
+
+		text-align: center;
+		width: 100%;
+		padding: 10px 0;
+		margin: 0;
+
+	}
+
+	nav:hover ul {
+
+		display: block;
+
+	} */
 
 /* Footer */
 
@@ -1661,10 +1704,16 @@ section, article {
 				background-position: center center;
 			}
 
-			#main > section.one {
+			/* #main > section.one {
 				background-color: #81918E;
 				background-image: url("../../images/banner.jpg");
-			}
+            } */
+            #myportfoliovideo {
+                position: absolute;
+                right: 0;
+                bottom: 0;
+                z-index: -1;
+              }	    
 
 			#main > section.two {
 				background-color: #f5fafa;
@@ -1680,7 +1729,7 @@ section, article {
 
 /* Wide */
 
-	@media screen and (min-width: 961px) and (max-width: 1880px) {
+	@media screen and (min-width: 736px) and (max-width: 1880px) {
 
 		/* Basic */
 
